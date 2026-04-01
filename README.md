@@ -1,14 +1,14 @@
-## Hello! I am Tim 👋
+## Hello! I am kyle! 👋
 My favorite language is Lua Scripting and i love discovering new things!
 
 ### **Programming Languages**
-- **Lua** – Basics 
+- **Lua** – Intermediate
 - **Java** – Beginner  
 
 ### **Skills**
-- Lua basics  
+- Lua Scripting
 - Networking basics  
-- Game development  
+- Game/Exploit development  
 - HTML & CSS basics  
 
 ![My Skills](https://skillicons.dev/icons?i=lua,java,html,css)
