@@ -7,22 +7,22 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝╚══════╝
 ```
 
-# hey, i'm Rodgie 👾
+# hey, i'm Rodgie 
 
-> *Lua scripter. Obfuscation nerd. I make code that fights back.*
+> *Lua scripter. Obfuscation. I make code that fights back.*
 
 ---
 
 ## 🧠 what i do
 
-- 🔴 **Lua Scripting** — Hard level. Not the tutorial kind.
-- 🔐 **Obfuscation Tools** — VM-based, opcode randomization, the works.
-- 🎮 **Roblox Game Systems** — From round managers to plot simulators.
-- 🔬 **Reverse Engineering** — Understanding what others tried to hide.
+- **Lua Scripting** — Hard level. Not the tutorial kind.
+- **Obfuscation Tools** — VM-based, opcode randomization, the works.
+- **Roblox Scripting** — From Basics to Advanced 
+- **Reverse Engineering** — Understanding what others tried to hide.
 
 ---
 
-## 🛠 stack & tools
+## stack & tools
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Roblox](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 github stats
+## github stats
 
 ![Rodgie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
