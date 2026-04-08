@@ -11,5 +11,5 @@ My favorite language is Lua Scripting and i love discovering new things!
 - Game/Exploit development  
 - HTML & CSS basics  
 
-
-![Cat](https://media.giphy.com/media/2zUn8hAwJwG4abiS0p/giphy.gif)
+![My Skills](https://skillicons.dev/icons?i=lua,java,html,css)
+![Cat](https://media3.giphy.com/media/2zUn8hAwJwG4abiS0p/giphy.gif)
