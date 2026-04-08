@@ -13,6 +13,4 @@ My favorite language is Lua Scripting and i love discovering new things!
 
 ![My Skills](https://skillicons.dev/icons?i=lua,java,html,css)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/2zUn8hAwJwG4abiS0p/giphy.gif" width="400"/>
-</p>
+![My GIF](https://media.giphy.com/media/2zUn8hAwJwG4abiS0p/giphy.gif)
