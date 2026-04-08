@@ -1,6 +1,7 @@
+<pre align="center">
 ## Hello! I am kyle! 👋
 My favorite language is Lua Scripting and i love discovering new things!
-
+</pre>
 ### **Programming Languages**
 - **Lua** – Intermediate
 - **Java** – Beginner  
