@@ -12,3 +12,7 @@ My favorite language is Lua Scripting and i love discovering new things!
 - HTML & CSS basics  
 
 ![My Skills](https://skillicons.dev/icons?i=lua,java,html,css)
+
+<div align="center">
+<img src="https://media.giphy.com/media/2zUn8hAwJwG4abiS0p/giphy.gif">
+</div>
