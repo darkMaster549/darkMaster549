@@ -12,4 +12,4 @@ My favorite language is Lua Scripting and i love discovering new things!
 - HTML & CSS basics  
 
 ![My Skills](https://skillicons.dev/icons?i=lua,java,html,css)
-![Cat](https://media3.giphy.com/media/2zUn8hAwJwG4abiS0p/giphy.gif)
+![Cat](https://media.tenor.com/7aQ4nZY6iXcAAAAC/geto-suguru-yo.gif)
